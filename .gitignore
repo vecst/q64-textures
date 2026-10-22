@@ -1,0 +1,14 @@
+# Only the tools, their settings and hand edits are tracked; packs, dumps and images are generated.
+/*
+!/.gitignore
+!/*.py
+!/*.sh
+!/*.json
+!/*.md
+!/*.txt
+!/edit/
+/edit/**
+!/edit/**/
+!/edit/README.txt
+!/edit/**/manifest.json
+!/edit/**/*_edit.png
